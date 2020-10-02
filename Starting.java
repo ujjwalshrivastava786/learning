@@ -18,3 +18,4 @@ z=obj.next().charAt(0);
 System.out.println("you have enterd "+z+" ");
 }
 }
+////gdddfbdbfdfhbdf
