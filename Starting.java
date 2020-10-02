@@ -5,7 +5,7 @@ public static void main(String [] args)
 int x;
 float y;
 char z;
-String a;
+String a; //this is string
 Scanner obj = new Scanner(System.in);
 System.out.println("enter a no.= ");
 x=obj.nextInt();
